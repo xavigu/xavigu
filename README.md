@@ -1,8 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Francisco Javier </h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-📫 How to reach me **xavigu91@gmail.com**
-
 
 **Languages and Tools:**  
 
@@ -14,6 +12,9 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=xavigu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="xavigu" /> </p>
 
+#### 📫 How to reach me:
 
-<a href="https://linkedin.com/in/francisco-javier-guzmán-rosino-839464101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francisco-javier-guzmán-rosino-839464101" height="20" width="20" /></a>
+- Email: **xavigu91@gmail.com**
+
+- Linkedin: <a href="https://linkedin.com/in/francisco-javier-guzmán-rosino-839464101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francisco-javier-guzmán-rosino-839464101" height="20" width="20" /></a>
 
